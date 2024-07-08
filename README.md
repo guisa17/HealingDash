@@ -9,4 +9,4 @@
 - Dash: Tecla X
 
 ### Publicación en itch.io
-https://itch.io/game/summary/2800094
+https://guisa17.itch.io/healingdash
